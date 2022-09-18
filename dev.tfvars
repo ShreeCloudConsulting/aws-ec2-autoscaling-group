@@ -1,0 +1,9 @@
+environment        = "dev"
+application        = "sample"
+image_id           = "ami-0022f774911c1d690"
+instance_type      = "t2.micro"
+key_name           = "raj-test"
+max_size           = "1"
+min_size           = "1"
+security_group_ids = ["sg-000e108c838643e41"]
+subnet_ids         = ["subnet-04e7e7a4fd3d458a5"]
